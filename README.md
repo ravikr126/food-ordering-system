@@ -1,6 +1,6 @@
 # Food Ordering System
 
-## Screenshots
+## Screenshots.
 ### Login
 ![Login](https://image.prntscr.com/image/aY4ghnqETTWc8w6RRqcSOw.jpg)
 ### Register
